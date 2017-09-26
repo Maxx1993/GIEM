@@ -23,6 +23,8 @@ namespace GIEM
       public MainWindow()
       {
          InitializeComponent();
+
+         MessageBox.Show("Bonjour!");
       }
    }
 }
